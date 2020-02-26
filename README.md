@@ -4,9 +4,9 @@ Aplicação para controlar objetivos financeiros utilizando [Vue.js](https://vue
 
 ## Screenshots
 
-![Home](/screenshots/home.png?raw=true "Home")
+![Home](/screenshots/home.PNG?raw=true "Home")
 
-![Adicionar ou editar fundo](/screenshots/form.PNG?raw=true "Adicionar ou editar fundo")
+![Adicionar ou editar fundo](/screenshots/form.PNG?raw=true "Adicionar ou editar objetivo")
 
 ## Executando o projeto
 
