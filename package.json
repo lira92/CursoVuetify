@@ -13,7 +13,7 @@
     "firebase": "^7.9.1",
     "v-currency-field": "^3.0.7",
     "vue": "^2.6.11",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
